@@ -1,1 +1,1 @@
-# Complicated-Business-Questions
+Conducted data analysis on a vehicle resale company using MySQL Workbench, designing ER diagrams, and writing multi-table queries to uncover customer dissatisfaction, product issues, and shipping delays. Built a multiple linear regression model in R using the Boston Housing dataset to predict housing prices, applying data cleaning, correlation analysis, and visualizations with ggplot2.
